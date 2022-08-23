@@ -23,7 +23,7 @@ class TaskListViewController: UITableViewController {
     }
 
     private func setupNavigationBar() {
-        title = "Task List"
+        title = "Task Lists"
         navigationController?.navigationBar.prefersLargeTitles = true
         
         let navBarAppearance = UINavigationBarAppearance()
